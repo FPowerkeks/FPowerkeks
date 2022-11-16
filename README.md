@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Powerkeks</h1>
 <h3 align="center">I'm an adminstrator of Askeku</h3>
 
-- 🔭 I’m currently working on [Askeku-Core](askeku.de)
+- 🔭 I’m currently working on [Cookieleaks](cookieleaks.de)
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Askeku-Core](askeku.de)
+- 👯 I’m looking to collaborate on [Cookieleaks](cookieleaks.de)
 
-- 🤝 I’m looking for help with [Askeku-Core](askeku.de)
+- 🤝 I’m looking for help with [Cookieleaks](cookieleaks.de)
 
 - 📫 How to reach me **f.powerkeks@web.de**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/powerkeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="powerkeks" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.askeku.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.askeku.de" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.askeku.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.cookieleaks.de" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
