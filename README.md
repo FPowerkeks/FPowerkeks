@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Powerkeks</h1>
-<h3 align="center">I'm an adminstrator of Askeku</h3>
+<h3 align="center">I'm the CEO of CookieLeaks</h3>
 
 - 🔭 I’m currently working on [Cookieleaks](cookieleaks.de)
 
