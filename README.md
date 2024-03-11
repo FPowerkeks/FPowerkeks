@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Powerkeks</h1>
-<h3 align="center">I am a Minecraft Server Owner and I am Coding with Java</h3>
+<h3 align="center">I am a Minecraft Server Owner and I am Coding with Java and I'm trying to develop my own Game</h3>
 
 - 🔭 I’m currently working on **Mythosia.de**
 
